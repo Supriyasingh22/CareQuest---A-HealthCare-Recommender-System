@@ -35,7 +35,7 @@ Experience *CareQuest* live: [CareQuest - A Healthcare Recommendation System](ht
 
 Follow these steps if you're looking to understand your WhatsApp conversations:
 
-1. Access CareQuest Portal: Visit the CareQuest portal by following this link: CareQuest - A Healthcare Recommendation System.
+1. Access CareQuest Portal: Visit the CareQuest portal by following this link: [CareQuest - A Healthcare Recommendation System](https://carequest-a-healthcare-recommender.onrender.com/)
 2. Input Symptoms: On the CareQuest web interface, you'll find a form where you can enter your symptoms. Fill in the symptoms you're experiencing. You can also provide optional time preferences if relevant.
 3. Generate Recommendations: After entering your symptoms, click the "Generate Recommendation" button. CareQuest will process your input using machine learning algorithms to predict potential diseases.
 4. Review Recommendations: CareQuest will display the predicted diseases and recommend specialized doctors based on the identified diseases. Review the recommendations carefully to decide on the next steps for your healthcare needs.
