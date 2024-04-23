@@ -39,9 +39,10 @@ Follow these steps if you're looking to understand your WhatsApp conversations:
 2. Visit the Symptom Input Page: Navigate to the symptom input section on the CareQuest web interface.
 3. Enter Your Symptoms: Fill in the symptoms you are currently experiencing. Be as specific as possible to ensure the best results from the disease prediction tool.
 4. Optional Time Preferences: If relevant, you can also provide information about the duration or onset of your symptoms, which might help in diagnosing your condition more accurately.
-5. Symptom List: To see a comprehensive list of symptoms that the system can recognize, please refer to our detailed symptom guide available [here](https://drive.google.com/file/d/1MsG4Iqc-_MrH__UOaw5AnM5nDs9q7h7I/view)
-. This guide includes all symptoms cataloged in our system, ensuring you don’t miss out on any key details.
+5. Symptom List: To see a comprehensive list of symptoms that the system can recognize, please refer to our detailed symptom guide available [here](https://drive.google.com/file/d/1MsG4Iqc-_MrH__UOaw5AnM5nDs9q7h7I/view). This guide includes all symptoms cataloged in our system, ensuring you don’t miss out on any key details.
 6 Generate Recommendations: After entering your symptoms, click the "Generate Recommendation" button. CareQuest will process your input using machine learning algorithms to predict potential diseases.
+   - After entering your symptoms and clicking the Generate Recommendation button on the CareQuest web interface, follow these steps to view the generated recommendations:
+   - Once the recommendation is generated, scroll down the page to view the results.
 7. Review Recommendations: CareQuest will display the predicted diseases and recommend specialized doctors based on the identified diseases. Review the recommendations carefully to decide on the next steps for your healthcare needs.
 8. Further Consultation: Based on the recommendations provided by CareQuest, you can consider scheduling appointments with the recommended doctors for further consultation and treatment.
 
