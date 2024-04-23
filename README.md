@@ -16,6 +16,8 @@
 
 This is a Flask-based web application that offers healthcare recommendations based on user symptoms. It utilizes machine learning algorithms to predict potential health conditions and recommends specialized doctors for further consultation.
 
+Experience *CareQuest* live: [CareQuest - A Healthcare Recommendation System](https://carequest-a-healthcare-recommender.onrender.com/)
+
 ## 🔥 Features
 - Predicts diseases based on user-entered symptoms
 - Recommends specialized doctors for identified diseases
