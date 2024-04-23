@@ -32,17 +32,14 @@ Experience *CareQuest* live: [CareQuest - A Healthcare Recommendation System](ht
 - *Web Development*: HTML, CSS, and JavaScript enhance the user experience through an intuitive and responsive web interface.
 
 ## 🚀 Getting Started
-- *Symptom-based Recommendation*: Users can input their symptoms and receive personalized recommendations for healthcare providers specializing in treating those symptoms.
-  
-- *User Engagement Metrics*: Gain insights into each healthcare provider's expertise, availability, and user ratings to make informed decisions.
 
-- *Sentiment Analysis*: Understand user satisfaction levels through sentiment analysis of feedback and reviews.
+Follow these steps if you're looking to understand your WhatsApp conversations:
 
-- *Topic Modeling*: Identify prevalent health topics and keywords from user conversations for targeted healthcare recommendations.
-
-- *Visual Activity Metrics*: Visualize user engagement patterns over time for data-driven decision-making.
-
-- *Real-time Recommendations*: Receive instant recommendations based on dynamic user inputs and evolving healthcare trends.
+1. Access CareQuest Portal: Visit the CareQuest portal by following this link: CareQuest - A Healthcare Recommendation System.
+2. Input Symptoms: On the CareQuest web interface, you'll find a form where you can enter your symptoms. Fill in the symptoms you're experiencing. You can also provide optional time preferences if relevant.
+3. Generate Recommendations: After entering your symptoms, click the "Generate Recommendation" button. CareQuest will process your input using machine learning algorithms to predict potential diseases.
+4. Review Recommendations: CareQuest will display the predicted diseases and recommend specialized doctors based on the identified diseases. Review the recommendations carefully to decide on the next steps for your healthcare needs.
+5. Further Consultation: Based on the recommendations provided by CareQuest, you can consider scheduling appointments with the recommended doctors for further consultation and treatment.
 
 ## 📦 Dependencies
 
