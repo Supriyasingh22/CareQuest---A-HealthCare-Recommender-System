@@ -1,4 +1,5 @@
 # CareQuest - A Healthcare Recommendation System
+![image](https://github.com/Supriyasingh22/CareQuest---A-HealthCare-Recommender-System/assets/111740123/4380abaf-84aa-4f69-84ba-dcdb59ef86c2)
 ![CareQuest](https://github.com/Supriyasingh22/CareQuest---A-HealthCare-Recommender-System/assets/111740123/f505d455-fd99-473f-8b81-90d1b8504405)
 
 ## 📜 Table of Contents
