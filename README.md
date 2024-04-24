@@ -25,6 +25,7 @@ Please note that CareQuest is hosted on a free platform, so it might take a mome
 - Recommends specialized doctors for identified diseases
 - Provides user-friendly interface for symptom input and doctor recommendations
 - Location-Based Search: Allows users to search for doctors based on the location of their preference, enhancing the personalization of healthcare recommendations.
+- Feedback Mechanism: The app features a feedback section for users to share experiences and suggestions, ensuring the service is responsive to user needs and continuously improves.
 
 ## 💡 Technologies Used
 
