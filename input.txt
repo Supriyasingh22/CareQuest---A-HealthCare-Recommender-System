@@ -1,32 +1,56 @@
-chills,shivering,continuous_sneezing
+	Symptoms :                                                City, State 
 
-fatigue, weight_loss, restlessness, lethargy
 
-itching,skin_rash,cough 
+chills,shivering,continuous_sneezing                           Chennai, Tamil Nadu : Ahmedabad, Gujarat  : Pune, Maharashtra 
+							       Kolkata, West Bengal
+        
 
-chills 
+fatigue, weight_loss, restlessness, lethargy                   Delhi, Delhi :  Mumbai, Maharashtra  : Bangalore, Karnataka
 
-patches_in_throat, high_fever, extra_marital_contacts
 
-vomiting, loss_of_appetite, abdominal_pain
+itching,skin_rash,cough                                        Hyderabad, Telangana : Delhi, Delhi : Bangalore, Karnataka
+							       Mumbai, Maharashtra
 
-blurred_and_distorted_vision, obesity, excessive_hunger
 
-passage_of_gases, internal_itching
 
-vomiting, sunken_eyes, dehydration, diarrhoea
+patches_in_throat, high_fever, extra_marital_contacts         Indore, Madhya Pradesh : Kanpur, Uttar Pradesh : Thane, Maharashtra
+							      Lucknow, Uttar Pradesh : Nagpur, Maharashtra
 
-stomach_pain, acidity, ulcers_on_tongue
 
-vomiting, loss_of_appetite, abdominal_pain
+vomiting, loss_of_appetite, abdominal_pain		      Surat, Gujarat : Jaipur, Rajasthan : Ahmedabad, Gujarat
+							      Pune, Maharashtra : Chennai, Tamil Nadu 
 
-muscle_wasting, patches_in_throat, high_fever
 
-restlessness, lethargy, irregular_sugar_level
+blurred_and_distorted_vision, obesity, excessive_hunger	      Chennai, Tamil Nadu : Hyderabad, Telangana : Kolkata, West Bengal
 
-fatigue, cough, high_fever, breathlessness
 
-shivering, chills, watering_from_eyes
+passage_of_gases, internal_itching 			      Surat, Gujarat : Jaipur, Rajasthan : Pune, Maharashtra
+							      Ahmedabad, Gujarat : Chennai, Tamil Nadu 
+
+
+vomiting, sunken_eyes, dehydration, diarrhoea		      Chennai, Tamil Nadu : Kolkata, West Bengal : Hyderabad, Telangana
+
+
+stomach_pain, acidity, ulcers_on_tongue			     Surat, Gujarat : Lucknow, Uttar Pradesh : Jaipur, Rajasthan
+							     Kanpur, Uttar Pradesh : Nagpur, Maharashtra 
+
+
+vomiting, loss_of_appetite, abdominal_pain                   Surat, Gujarat : Jaipur, Rajasthan : Ahmedabad, Gujarat
+							     Pune, Maharashtra : Chennai, Tamil Nadu 
+
+
+muscle_wasting, patches_in_throat, high_fever               Indore, Madhya Pradesh : Thane, Maharashtra : Kanpur, Uttar Pradesh
+							    Lucknow, Uttar Pradesh : Nagpur, Maharashtra
+
+ 
+restlessness, lethargy, irregular_sugar_level		    Chennai, Tamil Nadu : Hyderabad, Telangana : Kolkata, West Bengal
+
+
+fatigue, cough, high_fever, breathlessness                  Jaipur, Rajasthan : Ahmedabad, Gujarat : Surat, Gujarat 
+	
+
+shivering, chills, watering_from_eyes                       Chennai, Tamil Nadu : Ahmedabad, Gujarat : Pune, Maharashtra 
+							    Kolkata, West Bengal 
 
 
 
