@@ -41,6 +41,7 @@ def predict():
     if request.method == 'POST':
         symptoms = request.form.get('symptoms')
         specified_time = request.form.get('time')
+        city_state = request.form.get('city_state', '').strip()  # Get combined city and state
 
         # Split and strip each symptom entered by the user
         user_symptoms = [sym.strip() for sym in symptoms.split(',')]
@@ -81,12 +82,25 @@ def predict():
                 health_provider_info['Disease'] == predicted_disease
             ]
 
-        # Sort the available doctors by 'User Rating' in ascending order
+        if city_state:
+            parts = city_state.split(',')
+            specified_city = parts[0].strip() if len(parts) > 0 else ''
+            specified_state = parts[1].strip() if len(parts) > 1 else ''
+
+            # Filter by city and state if provided
+            if specified_city:
+                available_doctors = available_doctors[
+                    available_doctors['City'].str.lower() == specified_city.lower()]
+            if specified_state:
+                available_doctors = available_doctors[
+                    available_doctors['State'].str.lower() == specified_state.lower()]
+
+        # sort doctors with respect to available ratings
         available_doctors = available_doctors.sort_values(by='User Rating', ascending=False)
+        available_doctors = available_doctors[['Doctor Name', 'City', 'State', 'Available Time Slots', 'User Rating','Hospital']].to_dict(orient='records')
 
-        # Convert to dictionary
-        available_doctors = available_doctors[['Doctor Name', 'Available Time Slots', 'User Rating']].to_dict(orient='records')
 
+        # ... [rest of the code remains unchanged] ...
         if request.headers.get('X-Requested-With') == 'XMLHttpRequest':
             return render_template('partials/prediction_results.html', predicted_disease=predicted_disease,
                                    health_providers=available_doctors)
