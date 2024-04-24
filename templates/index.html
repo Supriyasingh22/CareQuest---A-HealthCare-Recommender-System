@@ -148,6 +148,13 @@
             </div>
             <!-- Visual separator for better form structure -->
             <br>
+            <!-- Optional input for specifying a city and state -->
+            <div class="form-group">
+                <label for="city_state">City, State (optional, format: City, State):</label>
+                <input type="text" class="form-control" id="city_state" name="city_state" placeholder="Enter City, State">
+            </div>
+            <br>
+
             <!-- Submission button for the form to process the entered symptoms and time -->
 
             <button type="submit" class="btn btn-outline-light">Generate Recommendations</button>
@@ -190,6 +197,8 @@
                                 <th>Doctor Name</th>
                                 <th>Available Time Slots</th>
                                 <th>User Rating</th>
+                                <th>City, State</th>
+                                <th>Hospital</th>
                             </tr>
                         </thead>
                         <tbody>
@@ -198,6 +207,9 @@
                                 <td>{{ provider['Doctor Name'] }}</td>
                                 <td>{{ provider['Available Time Slots'] }}</td>
                                 <td>{{ provider['User Rating'] }}</td>
+                                 <!-- Concatenate city and state with a comma -->
+                                <td>{{ provider['City'] }}, {{ provider['State'] }}</td>
+                                <td>{{ provider['Hospital'] }}</td>
                             </tr>
                             {% endfor %}
                         </tbody>

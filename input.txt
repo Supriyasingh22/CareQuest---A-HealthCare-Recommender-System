@@ -1,0 +1,32 @@
+chills,shivering,continuous_sneezing
+
+fatigue, weight_loss, restlessness, lethargy
+
+itching,skin_rash,cough 
+
+chills 
+
+patches_in_throat, high_fever, extra_marital_contacts
+
+vomiting, loss_of_appetite, abdominal_pain
+
+blurred_and_distorted_vision, obesity, excessive_hunger
+
+passage_of_gases, internal_itching
+
+vomiting, sunken_eyes, dehydration, diarrhoea
+
+stomach_pain, acidity, ulcers_on_tongue
+
+vomiting, loss_of_appetite, abdominal_pain
+
+muscle_wasting, patches_in_throat, high_fever
+
+restlessness, lethargy, irregular_sugar_level
+
+fatigue, cough, high_fever, breathlessness
+
+shivering, chills, watering_from_eyes
+
+
+
