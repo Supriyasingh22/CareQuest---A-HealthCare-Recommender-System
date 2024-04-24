@@ -23,6 +23,7 @@ Please note that CareQuest is hosted on a free platform, so it might take a mome
 - Predicts diseases based on user-entered symptoms
 - Recommends specialized doctors for identified diseases
 - Provides user-friendly interface for symptom input and doctor recommendations
+- Location-Based Search: Allows users to search for doctors based on the location of their preference, enhancing the personalization of healthcare recommendations.
 
 ## 💡 Technologies Used
 
